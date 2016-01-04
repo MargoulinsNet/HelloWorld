@@ -18,7 +18,7 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string s = "Thierry";
+            string s = "Thierry2";
             MessageBox.Show("Hello " + s);
         }
     }
